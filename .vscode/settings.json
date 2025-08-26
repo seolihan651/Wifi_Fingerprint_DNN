@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "ai_platform.h": "c",
+        "ai_datatypes_defines.h": "c"
+    }
+}
